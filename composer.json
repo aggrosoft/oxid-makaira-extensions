@@ -1,0 +1,20 @@
+{
+  "name": "aggrosoft/oxid-makaira-extensions",
+  "description": "Aggrosoft Makaira Extensions",
+  "type": "oxideshop-module",
+  "keywords": ["oxid", "modules", "eShop", "makaira"],
+  "homepage": "https://www.aggrosoft.de",
+  "version": "0.0.1",
+  "extra": {
+    "oxideshop": {
+      "target-directory": "agmakaira"
+    }
+  },
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Aggrosoft\\Makaira\\": "../../../source/modules/agmakaira"
+    }
+  }
+}
