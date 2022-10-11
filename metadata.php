@@ -14,7 +14,7 @@ $aModule = array(
     'description'  => array(
         'de' => 'Schließt Händler Gruppe für die Makira Suche aus.'
     ),
-    'version'      => '0.0.1',
+    'version'      => '0.0.2',
     'author'       => 'Aggrosoft GmbH',
     'email'        => 'coding@aggrosoft.de',
     'url'          => 'https://www.aggrosoft.de',

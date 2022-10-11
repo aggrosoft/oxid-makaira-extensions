@@ -4,7 +4,7 @@
   "type": "oxideshop-module",
   "keywords": ["oxid", "modules", "eShop", "makaira"],
   "homepage": "https://www.aggrosoft.de",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "extra": {
     "oxideshop": {
       "target-directory": "agmakaira"
